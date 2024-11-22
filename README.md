@@ -8,8 +8,9 @@
   </a>
   
   <div id="viewprof" align=" center">
-  <img src="https://komarev.com/ghpvc/?username=Ilaydi&style=flat-square&color=ff69b4" alt=""/›
+  <img src="https://komarev.com/ghpvc/?username=qwq12345678A&style=flat-square&color=ff69b4" alt=""/›
 ‹/ div>                                                                                                                                    
+
 
 <div id="heythere" align="lcenter">
 <h1> Профиль на GITHUB
@@ -22,9 +23,8 @@
 - :man_pilot: факт обо мне
 - :biking_man: факт обо мне
 
-### :hammer_and_wrench: Языки и инструменты 
-
-<div>
+- ### :hammer_and_wrench: Языки и инструменты
+- <div>
 <img src= "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" heights="40" />
 <img src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" heights="40" />
 <img src= "https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="40" height="40" />
@@ -33,17 +33,16 @@
 
 ### :trophy: Достижения:
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=Yaroslav7394V" alt=""/>
+  <img src="https://github-profile-trophy.vercel.app/?username=qwq12345678A" alt=""/>
 </div>
 
 ### :keyboard: Наиболее используемые языки:
-
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilaydi" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwq12345678A" alt=""/>
 </div>
 
 ### :bar_chart: Статистика активности :
 
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ilaydi&theme=react-dark" alt=""/›
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qwq12345678A&theme=react-dark" alt=""/›
 </div>
